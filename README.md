@@ -57,5 +57,5 @@ We welcome contributions to enhance the Brainwave landing page! To contribute, f
 TBA
 
 ```
-Made with ❤️ by the Brainwave Team.
+Made with ❤️ by the Brainwave Team - (note that this is just a statement that I wrote not an official statement from Microsoft)
 ```
