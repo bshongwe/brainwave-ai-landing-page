@@ -1,3 +1,4 @@
+// Test... build bug
 const MenuSvg = ({ openNavigation }) => {
   return (
     <svg
