@@ -78,7 +78,7 @@ export const notificationImages = [notification4, notification3, notification2];
 export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
 
 export const brainwaveServices = [
-  "Photo generating",
+  "Photo generation",
   "Photo enhance",
   "Seamless Integration",
 ];
@@ -248,7 +248,7 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "Ask anything",
+    title: "Ask Brainwave anything",
     text:
       "Lets users quickly find answers to their questions without having to search through multiple sources.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
@@ -257,9 +257,9 @@ export const benefits = [
   },
   {
     id: "1",
-    title: "Improve everyday",
+    title: "Improve Everyday",
     text:
-      "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+      "The app uses natural language processing (NLP) to understand user queries and provide accurate and relevant responses.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -267,18 +267,18 @@ export const benefits = [
   },
   {
     id: "2",
-    title: "Connect everywhere",
+    title: "Connect Anywhere",
     text:
-      "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
+      "Connect with the AI chatbot from anywhere, and on any device, making Brainwave more accessible and convenient.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
   },
   {
     id: "3",
-    title: "Fast responding",
+    title: "Fast Responses",
     text:
-      "Lets users quickly find answers to their questions without having to search through multiple sources.",
+      "Experience lightening-speed responses, with centralised resources. Brainwave is a one-stop search resource.",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
@@ -286,16 +286,16 @@ export const benefits = [
   },
   {
     id: "4",
-    title: "Ask anything",
+    title: "Superior Chat",
     text:
-      "Lets users quickly find answers to their questions without having to search through multiple sources.",
+      "Leverage Brainwave as a chat app companion to improve your chats. Brainwave offers chat response recommendations that no other app in the market currently offers.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "5",
-    title: "Improve everyday",
+    title: "Superior Learning Model",
     text:
       "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
     backgroundUrl: "./src/assets/benefits/card-6.svg",
@@ -315,7 +315,7 @@ export const socials = [
     id: "1",
     title: "Twitter",
     iconUrl: twitter,
-    url: "#",
+    url: "https://twitter.com/ernest_b_shong",
   },
   {
     id: "2",
@@ -333,6 +333,6 @@ export const socials = [
     id: "4",
     title: "Facebook",
     iconUrl: facebook,
-    url: "#",
+    url: "https://www.facebook.com/shongwe.bhekizwe",
   },
 ];
